@@ -980,6 +980,7 @@ var cnames_active = {
   "eiphop": "eiphop.netlify.app",
   "eiyuu": "sinkaroid.github.io/eiyuu",
   "ejir": "ejir.github.io",
+  "ejunz": "ejunz-dev.github.io",
   "ekscss": "maxmilton.github.io/ekscss",
   "elastic-builder": "sudo-suhas.github.io/elastic-builder",
   "elasticmagic": "kindritskyimax.github.io/elasticmagic-js",
@@ -3682,7 +3683,7 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes"
+  "zyy": "zyyou.github.io/notes",
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
